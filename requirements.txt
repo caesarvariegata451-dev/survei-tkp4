@@ -1,0 +1,8 @@
+streamlit>=1.64,<2
+pdfplumber>=0.11
+pandas>=2.0
+folium>=0.17
+streamlit-folium>=0.22
+geopy>=2.4
+streamlit-js-eval>=0.1.7
+openpyxl>=3.1
