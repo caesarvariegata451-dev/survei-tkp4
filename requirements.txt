@@ -1,9 +1,0 @@
-# Aplikasi Survei TKP Laka — dependensi (Python 3.12, default Streamlit Community Cloud)
-streamlit>=1.65,<2          # UI; width="stretch" & ID elemen per-form dipakai di kode
-streamlit-folium>=0.25      # menampilkan peta Folium di Streamlit
-streamlit-geolocation==0.0.10   # tombol GPS dari browser HP
-folium>=0.17                # peta Leaflet: tile Google, MarkerCluster, lingkaran radius
-geopy>=2.4                  # geocoding Nominatim + RateLimiter
-pdfplumber>=0.11            # ekstraksi teks PDF Laporan Polisi
-olefile>=0.46               # membaca file Word lama (.doc 97-2003)
-pandas>=2.0                 # impor/ekspor CSV hasil
